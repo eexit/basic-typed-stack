@@ -39,7 +39,7 @@ Basic Typed Stack has been developped to work into the console, there is not GUI
 
 ## Changelog
 
-** 2010-03-13 — v.1.00
+**2010-03-13 — v.1.00**
 
 * Initial release
 
